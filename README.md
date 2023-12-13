@@ -22,7 +22,7 @@
 
 除了个人项目，我还积极参与开源社区。贡献的一些建议或项目：
 
-- [ZFPlayer](https://github.com/renzifeng/ZFPlayer): 建议播放控制层逻辑修改。
+- [ZFPlayer](https://github.com/renzifeng/ZFPlayer): 播放控制层逻辑修改。
 
 
 ## 联系方式
